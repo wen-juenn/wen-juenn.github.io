@@ -5,8 +5,4 @@ Poet
 
 ### Publications
 
-* First
-* Seccond
-* Third
-
 </span>
