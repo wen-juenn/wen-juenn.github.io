@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Home"
+title: Home
 permalink: /
 ---
 
-### Wen-Juenn Lee
+#### Wen-Juenn Lee
