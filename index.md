@@ -1,4 +1,4 @@
-<div style="margin-top:10px;min-height:100px;width:600px;margin-left:auto;margin-right:auto;text-align:center;border-style:solid;">
+<div markdown="1" style="margin-top:10px;min-height:100px;width:600px;margin-left:auto;margin-right:auto;text-align:center;border-style:solid;">
 
   # Wen-Juenn Lee
   Poet
