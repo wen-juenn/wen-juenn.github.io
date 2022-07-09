@@ -3,7 +3,7 @@
   <h1> Wen-Juenn Lee </h1>
   Poet
   
-  <img style="width:490;height:auto;" src="wen-juenn.jpeg">
+  <img width="490px" height="auto" src="wen-juenn.jpeg">
 
   <h3> Publications</h3>
 
