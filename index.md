@@ -1,8 +1,8 @@
 <div align="center">
 
-# Wen-Juenn Lee
-Poet
+  <h1> Wen-Juenn Lee </h1>
+    Poet
 
-### Publications
+  <h3> Publications</h3>
 
 </div>
